@@ -82,3 +82,13 @@ Você pode usar ferramentas como Insomnia ou Postman para testar os endpoints.
     "email": "joao.silva@exemplo.com",
     "phone": "999999999"
 }
+ ```
+
+## ✨✨✨Dicas:
+
+Você pode ver o banco graficamente ao abrir o Prisma Studio, que é tipo um “phpMyAdmin” embutido, com interface
+ ```bash
+npx prisma studio
+ ```
+Isso vai abrir no navegador uma página (geralmente em http://localhost:5555) mostrando a tabela user e post
+
